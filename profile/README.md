@@ -10,4 +10,4 @@ This is the GitHub Organization for past and present AWM - UT Chapter members, u
 * [Mailing list](https://utlists.utexas.edu/sympa/subscribe/utawm?previous_action=edit_list_request#)
 * [Instagram](https://www.instagram.com/texasawm/)
 
-![UT AWM logo](utawm_logo.png)
+![utawm_logo](https://user-images.githubusercontent.com/44852921/210158764-95294439-d2f9-4215-a0e6-57e300887f53.png)
